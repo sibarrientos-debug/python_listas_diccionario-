@@ -1,0 +1,5 @@
+from funciones import(agregar_videojuegos)
+
+videojuegos=[]
+agregar_videojuegos(videojuegos)
+print("Continua")
